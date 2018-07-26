@@ -1,4 +1,4 @@
-var recipe 
+var recipe = {};
 
 updateObjectWithKeyAndValue(object, key, value)
 
